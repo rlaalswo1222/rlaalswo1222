@@ -6,7 +6,7 @@
 <!-- 타이핑 애니메이션 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Flutter+%2B+FastAPI+Developer;Building+EnsembleSync+%F0%9F%8E%B5;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Backend+Developer;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
