@@ -12,24 +12,6 @@
 
 <br/>
 
-<!-- 소개 -->
-<div align="center">
-
-```dart
-class Developer {
-  final String name = "김민재";
-  final String role = "Flutter + Backend Developer";
-  final List<String> currentProject = ["EnsembleSync 🎵"];
-  final List<String> interests = ["앱 개발", "실시간 협업", "음악"];
-
-  String get greeting => "합주 피드백 플랫폼을 만들고 있어요!";
-}
-```
-
-</div>
-
-<br/>
-
 ---
 
 ## 🎵 Featured Project
