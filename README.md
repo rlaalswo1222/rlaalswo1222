@@ -1,12 +1,12 @@
 <!-- 헤더 애니메이션 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,50,60&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=18"/>
 </div>
 
 <!-- 타이핑 애니메이션 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Backend+Developer;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Backend+Developer;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,5 +49,5 @@
 
 <!-- 푸터 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,50,60&height=120&section=footer"/>
 </div>
