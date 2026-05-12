@@ -1,6 +1,6 @@
 <!-- 헤더 애니메이션 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20%7C%20FastAPI%20%7C%20Backend%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=18"/>
 </div>
 
 <!-- 타이핑 애니메이션 -->
