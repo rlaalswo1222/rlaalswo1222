@@ -1,12 +1,12 @@
 <!-- 헤더 애니메이션 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=rlaalswo1222&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Flutter%20%7C%20FastAPI%20%7C%20Backend%20Developer&descAlignY=55&descSize=18"/>
 </div>
 
 <!-- 타이핑 애니메이션 -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Backend+Developer;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=500&lines=Hello%2C+I'm+%EA%B9%80%EB%AF%BC%EC%9E%AC+%F0%9F%91%8B;Flutter+%2B+FastAPI+Developer;Building+EnsembleSync+%F0%9F%8E%B5;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -70,21 +70,6 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlaalswo1222&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&v=2"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlaalswo1222&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rlaalswo1222&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <br/>
